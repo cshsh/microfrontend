@@ -1,0 +1,5 @@
+html, body, #container, #app {
+    height: 100%!important;
+    margin: 0;
+    padding: 0;
+}
